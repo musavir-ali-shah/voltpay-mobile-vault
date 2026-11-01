@@ -2,7 +2,7 @@
 
 [![Flutter](https://img.shields.io/badge/Flutter-Mobile%20%26%20Cross--Platform-02569B?logo=flutter&logoColor=white)](https://flutter.dev)
 [![Dart](https://img.shields.io/badge/Dart-3.x-0175C2?logo=dart&logoColor=white)](https://dart.dev)
-[![Download APK](https://img.shields.io/badge/Download-Production%20APK-E50914?logo=android&logoColor=white)](https://github.com/musavir-ali/voltpay-mobile-vault/releases)
+[![Download APK](https://img.shields.io/badge/Download-Production%20APK-E50914?logo=android&logoColor=white)](https://github.com/musavir-ali-shah/voltpay-mobile-vault/releases)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 > An enterprise-grade, luxury digital banking wallet and payment orchestration engine engineered in Flutter. Features atmospheric ambient lighting, 3D interactive gesture-driven Matrix4 cards, real local hardware biometrics, and a tactile custom dark numeric keypad.
