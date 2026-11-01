@@ -11,7 +11,7 @@
 
 ### 📲 Direct Installation
 Experience the production Android application directly on your device:  
-🔗 **[Download Latest Release APK (v1.0.0)](https://github.com/musavir-ali/voltpay-mobile-vault/releases)**
+🔗 **[Download Latest Release APK (v1.0.0)](https://github.com/musavir-ali-shah/voltpay-mobile-vault/releases)**
 
 ---
 
@@ -69,7 +69,7 @@ Experience the production Android application directly on your device:
 
 ## 🎨 Design & Attribution
 
-- **Original UI/UX Concept:** Inspired by [Orbix Studio - FinTech Mobile App](https://dribbble.com) on Dribbble.
+- **Original UI/UX Concept:** Inspired by [Orbix Studio - FinTech Mobile App](https://dribbble.com/shots/27406354-Fintech-Payment-App-UI-Design) on Dribbble.
 - Re-architected and engineered into production-ready Flutter code by **Syed Musavir Ali Shah**.
 
 ---
